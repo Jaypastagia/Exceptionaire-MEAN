@@ -1,6 +1,6 @@
 # Exceptionaire-MEAN
 
-Steps to clone run the application
+Steps to clone and run the application
 
 1) Download zip or clone the repo.
 2) Setup database
